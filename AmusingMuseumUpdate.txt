@@ -1,0 +1,8 @@
+1 Εισαγωγή στο strings.xml των hints των πληροφοριών των μνημείων
+
+2 Εισαγωγή onWindowFocusChanged() στην QrCodeScanner
+
+3 Δημιουργία νεου Layout exhibit_information.xml
+
+4 QrCodeScanner , ο νεός κώδικας είναι μέσα στην μέθοδο validateNumCode
+
